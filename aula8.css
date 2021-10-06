@@ -1,0 +1,9 @@
+* {
+margin:5px; padding:10px;
+}
+label, input, select, span {
+display:block; font-size:25px;
+}
+button {
+    font-size:25px;
+}
